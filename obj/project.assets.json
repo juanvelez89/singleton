@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juand\\source\\repos\\singleton\\singleton.csproj",
+      "projectUniqueName": "D:\\TestConcepts\\singleton\\singleton.csproj",
       "projectName": "singleton",
-      "projectPath": "C:\\Users\\juand\\source\\repos\\singleton\\singleton.csproj",
+      "projectPath": "D:\\TestConcepts\\singleton\\singleton.csproj",
       "packagesPath": "C:\\Users\\juand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juand\\source\\repos\\singleton\\obj\\",
+      "outputPath": "D:\\TestConcepts\\singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

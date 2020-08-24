@@ -1,0 +1,11 @@
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.exe
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.deps.json
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.runtimeconfig.json
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.runtimeconfig.dev.json
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.dll
+D:\TestConcepts\singleton\bin\Debug\netcoreapp3.0\singleton.pdb
+D:\TestConcepts\singleton\obj\Debug\netcoreapp3.0\singleton.csprojAssemblyReference.cache
+D:\TestConcepts\singleton\obj\Debug\netcoreapp3.0\singleton.AssemblyInfoInputs.cache
+D:\TestConcepts\singleton\obj\Debug\netcoreapp3.0\singleton.AssemblyInfo.cs
+D:\TestConcepts\singleton\obj\Debug\netcoreapp3.0\singleton.dll
+D:\TestConcepts\singleton\obj\Debug\netcoreapp3.0\singleton.pdb

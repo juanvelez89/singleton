@@ -6,7 +6,9 @@ namespace singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var god = GodSingleton.CreateGod();
+            Console.WriteLine("*****************************************************************");
+            Console.WriteLine( god.CreateWorld());
         }
     }
 }
