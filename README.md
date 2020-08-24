@@ -8,6 +8,12 @@ Basado en el libro:
 Es un patrón de diseño creacional el cual asegura que una clase tenga solo una instancia y provee un punto de acceso global para ella.
 
 ## Aplicabilidad
-El patrón singleton debería usarse cuando debe exitir exactamente una instancia de una clase, y debe ser accesible globalmente.
+El patrón singleton debería usarse cuando debe exitir exactamente una instancia de una clase, y debe ser accesible desde un punto de acceso conocido.
+
+## Participantes en el patrón
+
+### Singleton
+Define una CLase responsable de crear una única instancia.
+
 
 
