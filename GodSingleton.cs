@@ -6,18 +6,29 @@ namespace singleton
 {
     public class GodSingleton
     {
-        private static GodSingleton godSingleton;
+        private static GodSingleton godSingletonInstance;
+        private static readonly object padlock = new object();
+        public static GodSingleton GodSingletonInstance
+        {
+            get
+            {
+                lock (padlock)
+                {
+                    if (godSingletonInstance == null)
+                    {
+                        godSingletonInstance = new GodSingleton();
+                    }
+                    return godSingletonInstance;
+                }
+            }
+        }
         public string CreateWorld() {
-            return "Hágase la luz";
+            return "let there be light";
         } 
 
         public static GodSingleton CreateGod()
         {
-            if(godSingleton == null)
-            {
-                godSingleton = new GodSingleton();
-            }
-            return godSingleton;
+            return GodSingletonInstance;
         }
     }
 }
